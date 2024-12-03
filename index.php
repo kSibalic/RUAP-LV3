@@ -48,10 +48,10 @@
 
 <?php
 // DB connection info
-$host = "dkruaplv3-server.mysql.database.azure.com";
-$user = "eogulaolms";
-$pwd = '6NFZRWEX2Y$rIP9y';
-$db = "ruapdb";
+$host = "ksiba-server.mysql.database.azure.com";
+$user = "lzpoxskywx";
+$pwd = 'Karlo12345!';
+$db = "ksiba-server";
 
 // Connect to MySQL
 $conn = mysqli_connect($host, $user, $pwd);
